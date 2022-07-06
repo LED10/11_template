@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    background-image: url(https://classic.exame.com/wp-content/uploads/2021/08/bola_futebol.jpg?quality=70&strip=info&w=1024);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    
+    
+}
+header h1{
+    padding-top: 16%;
+    color: yellow;
+    
+}
+main{
+    background-color: blueviolet;
+    height: 500px;
+    width: 100%;
+}
+footer{
+    background-color: black;
+    height: 300px;
+    width: 100%;
+}
